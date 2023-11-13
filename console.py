@@ -1,14 +1,8 @@
 #!/usr/bin/python3
 """
-console.py
 
 This module contains the entry point of
 the command interpreter for the AirBnB clone project.
-The HBNBCommand class defines the command interpreter,
-which allows users to interact with the project's objects.
-
-Usage:
-python3 console.py
 
 """
 from models.amenity import Amenity

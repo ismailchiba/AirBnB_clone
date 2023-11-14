@@ -10,7 +10,7 @@ from models.base_model import BaseModel
 class Place(BaseModel):
     """
     Place class for representing places in the AirBnB clone project.
-    
+
     """
 
     city_id = ""
@@ -24,4 +24,3 @@ class Place(BaseModel):
     latitude = 0.0
     longitude = 0.0
     amenity_ids = []
-

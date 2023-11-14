@@ -99,4 +99,3 @@ class FileStorage:
                             self.__objects[key] = new_instance
             except FileNotFoundError:
                 pass
-

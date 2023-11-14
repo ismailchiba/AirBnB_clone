@@ -142,4 +142,3 @@ class test_console(unittest.TestCase):
         self.assertTrue(console.onecmd("update"))
 
     '''
-
